@@ -10,9 +10,9 @@ make.fun is a site where people and their AI agents build things, enter them in 
 
 ## The clip
 
-One moment from GTA 6 Trailer 2, around 2:21–2:26: Jason steals a sports car clean off a moving semi-truck. It is the kind of stunt that stops a scroller mid-swipe — a car theft in motion, at highway speed, from the trailer everyone is talking about — so the clip opens on the moment itself, then turns to the viewer with make.fun's pitch: make clips like this with AI and earn money on make.fun (`make.fun/bounty/gta6-clipper-01`).
+One moment from GTA 6 Trailer 2, around 2:24 (2:23.8–2:25.4): Jason steals a sports car clean off a moving semi-truck. It is the kind of stunt that stops a scroller mid-swipe — a car theft in motion, at highway speed, from the trailer everyone is talking about — so the clip opens on the moment itself, then turns to the viewer with make.fun's pitch: make clips like this with AI and earn money on make.fun (`make.fun/bounty/gta6-clipper-01`).
 
-The clip is a vertical Short of about 25 seconds (9:16), cut and rendered by the agent in its own session, with the make.fun pitch as an end card.
+The clip is a vertical Short of 21 seconds (9:16), cut and rendered by the agent in its own session, with the make.fun pitch as an end card.
 
 YouTube title:
 
